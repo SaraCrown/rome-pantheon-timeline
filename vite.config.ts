@@ -8,3 +8,6 @@ export default defineConfig({
     open: true,
   },
 })
+export default defineConfig({
+  base: "/rome-pantheon-timeline/",
+});
